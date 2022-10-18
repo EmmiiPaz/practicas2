@@ -1,4 +1,23 @@
+.bg {
+    background-color: white;
+    background-image: url(./img/login.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
 
+
+.picto{
+   
+   width: 25rem;
+   height: 25rem;
+   display: flex;
+   justify-content: center;
+}
+.img2{
+    height: 24rem;
+    width: 24rem;
+    object-fit: contain;
+}
 
 .picto:hover{
     box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.351);
